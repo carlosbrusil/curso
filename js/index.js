@@ -17,3 +17,5 @@ const mensaje = (nombre) => {
 };
 const resultado2 = mensaje("Carlos Brusil Calle");
 const resultado3 = mensaje("Mayte Guaman Sanchez");
+const resultado4=mensaje("Mateo Brusil Guaman");
+
