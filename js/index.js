@@ -16,3 +16,4 @@ const mensaje = (nombre) => {
   console.log(nombre);
 };
 const resultado2 = mensaje("Carlos Brusil Calle");
+const resultado3 = mensaje("Mayte Guaman Sanchez");
